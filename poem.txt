@@ -6,5 +6,6 @@ pink
 green
 magenta
 yellow
+navy
 these are the colors of the rainbow
 and the unicorn

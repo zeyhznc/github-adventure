@@ -4,7 +4,7 @@ blue
 purple 
 pink
 green
-magenta
+magentaaaaaaaaaaaaaaaaa
 yellow
 navy
 these are the colors of the rainbow

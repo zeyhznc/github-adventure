@@ -6,3 +6,5 @@
   - [Introduction to version control with Git](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/)
 ## Github Developer Student Pack
 * If you are a student and if you have a student mail from your school you should apply to [Github Developer Student Pack](https://education.github.com/pack)
+## Readme
+- [Open Sourse Readme Stats Project by anuraghazra](https://github.com/anuraghazra/github-readme-stats)

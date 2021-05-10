@@ -1,5 +1,6 @@
 # github-adventure
 ## Resources
+- [GitHub Learning Lab](https://lab.github.com/)
 - [GitHub Training & Guides](https://www.youtube.com/c/GitHubGuides/featured)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
   - [Introduction to Github](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
